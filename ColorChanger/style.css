@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(106, 141, 146);
+  }
+  .button {
+    height: 20px;
+    width: 20px;
+    padding: 50px;
+    margin: 5px;
+    border: 1px solid black;
+  }
+  div {
+    display: flex;
+    align-items: center;
+  }
+  #grey {
+    background-color: grey;
+  }
+  #yellow {
+    background-color: yellow;
+  }
+  #blue {
+    background-color: blue;
+  }
+  #green {
+    background-color: green;
+  }
+  #white {
+    background-color: white;
+  }
+  
